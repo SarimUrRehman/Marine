@@ -1,0 +1,6 @@
+{
+  "name": "Marín Window Services INC",
+  "description": "Premier residential and commercial window cleaning in Chicago, IL and surrounding suburbs. 5.0-star rated service with crystal clear results.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
